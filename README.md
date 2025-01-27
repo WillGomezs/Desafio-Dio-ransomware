@@ -12,8 +12,9 @@ decrypter.py: Inclui o código necessário para a descriptografia de arquivos pr
 example.txt: Um arquivo de exemplo que contém texto simples (como uma frase ou trecho), utilizado para ilustrar o funcionamento do ransomware.
 
 ## Ferramentas Utilizadas
-Kali Linux: Sistema operacional usado como ambiente para o desenvolvimento e execução do projeto.
-Nano: Editor de texto utilizado para escrever o código diretamente no Kali Linux.
+encrypter.py: Este arquivo contém o código responsável por criptografar os arquivos.
+decrypter.py: Aqui está o código que permite descriptografar um arquivo previamente criptografado.
+example.txt: Um arquivo de exemplo contendo uma frase/trecho ou palavra para ilustrar o funcionamento do ransomware.
 
 ## Aviso Importante
 Este projeto foi desenvolvido exclusivamente para fins educacionais e destina-se ao aprendizado sobre cibersegurança.
